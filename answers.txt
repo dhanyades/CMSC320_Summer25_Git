@@ -8,3 +8,6 @@ Answer: Git is an extremely efficient and helpful tool that allows you to keep t
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines changes from different branches, while rebasing moves your changes on top of another branch to make history cleaner.
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to gain more data science skills this summer!
