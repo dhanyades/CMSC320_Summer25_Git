@@ -5,3 +5,6 @@ Q1: Why might we consider using Git?
 
 
 Answer: Git is an extremely efficient and helpful tool that allows you to keep track of version history of your project. Additionally, Git is useful for working collaboratively with others to put together work that has been done serparately to create one cohesive project.
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines changes from different branches, while rebasing moves your changes on top of another branch to make history cleaner.
