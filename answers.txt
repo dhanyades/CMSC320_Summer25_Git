@@ -1,3 +1,7 @@
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be utilized in the phramaceuticals sector as it could provide various statistics based on different reportings that Doctors provide based on the results of a certain durg. It could also be used in an observational/experimental study based on a specific drug which can allow pharma companies to create solutions and improvements.
+Q1: Why might we consider using Git?
+
+
+Answer: Git is an extremely efficient and helpful tool that allows you to keep track of version history of your project. Additionally, Git is useful for working collaboratively with others to put together work that has been done serparately to create one cohesive project.
